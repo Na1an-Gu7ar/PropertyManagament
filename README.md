@@ -10,8 +10,6 @@ A full-stack MERN web application that allows users to manage real estate proper
 Backend: [https://propertymanagament.onrender.com/api](https://propertymanagament.onrender.com/api)  
 Frontend: [https://property-managament-8fq4.vercel.app/](https://property-managament-8fq4.vercel.app/)
 
-> Replace these with your actual URLs before pushing to GitHub
-
 ---
 
 ## 🧰 Tech Stack
@@ -31,7 +29,6 @@ Frontend: [https://property-managament-8fq4.vercel.app/](https://property-managa
 - 🔐 User Signup, Login, Logout (JWT-based)
 - 🏡 Add, View, Edit, and Delete Property Listings
 - 🔍 Search Properties by Title or Location
-- 🖼 Upload images via URL (Cloudinary optional)
 - ✅ Protected Routes (only authenticated users can add/delete)
 - 🌍 Fully deployed on Vercel + Render
 
@@ -40,9 +37,6 @@ Frontend: [https://property-managament-8fq4.vercel.app/](https://property-managa
 ## 📦 Installation (Local Setup)
 
 ```bash
-# Clone the repository
-git clone https://github.com/your-username/property-management.git
-
 # Install backend dependencies
 cd backend
 npm install
